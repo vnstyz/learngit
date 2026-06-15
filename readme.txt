@@ -19,3 +19,6 @@ dev02:How to change life.
 issue-001: Fix the bug.
 
 dev03:All ready.
+
+issue-001: Fix the bug.
+
