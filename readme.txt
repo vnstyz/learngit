@@ -22,4 +22,7 @@ dev03:All ready.
 
 issue-001: Fix the bug.
 
-learngit main commit 6/16.
+
+learngit main commit 6/16 and time is 6/16 main temp.
+now i will handing conflict.
+
